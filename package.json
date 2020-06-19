@@ -3,6 +3,10 @@
   "displayName": "Zeswen's Full Stack Pack",
   "description": "My Full Stack extension pack.",
   "publisher": "Zeswen",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zeswen/zeswen-full-stack-pack.git"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.46.0"
