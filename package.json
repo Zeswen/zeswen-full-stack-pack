@@ -1,0 +1,35 @@
+{
+  "name": "zeswen-full-stack-pack",
+  "displayName": "Zeswen's Full Stack Pack",
+  "description": "My Full Stack extension pack.",
+  "publisher": "Zeswen",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "alefragnani.project-manager",
+    "christian-kohler.npm-intellisense",
+    "dbaeumer.vscode-eslint",
+    "dsznajder.es7-react-js-snippets",
+    "ecmel.vscode-html-css",
+    "eg2.vscode-npm-script",
+    "esbenp.prettier-vscode",
+    "fknop.vscode-npm",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "mikestead.dotenv",
+    "mohsen1.prettify-json",
+    "ms-vscode-remote.remote-wsl",
+    "ms-vscode.cpptools",
+    "msjsdiag.debugger-for-chrome",
+    "PKief.material-icon-theme",
+    "pmneo.tsimporter",
+    "rbalet.code-spell-checker-fullstack",
+    "rbbit.typescript-hero",
+    "wix.vscode-import-cost"
+  ]
+}
